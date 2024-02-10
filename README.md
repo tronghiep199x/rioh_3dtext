@@ -1,7 +1,5 @@
 THIS IS **FREE** SOURCE, NOT FOR SALE
 
-**[Requirements]:**
-- Nothing !
 **[Features]:**
 - Show 3D text for your location
 - Can change the font with font ID
