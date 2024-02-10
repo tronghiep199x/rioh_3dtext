@@ -1,4 +1,3 @@
-# Rioh 3D Text Location
 THIS IS **FREE** SOURCE, NOT FOR SALE
 
 **[Requirements]:**
@@ -16,4 +15,3 @@ THIS IS **FREE** SOURCE, NOT FOR SALE
 3. Enjoy it!
 
 ***Rioh***
-
